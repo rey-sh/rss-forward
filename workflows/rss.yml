@@ -1,8 +1,9 @@
 on:
   rss:
     url: 
-      - https://1q43.blog/feed # 虹线
-      - http://feeds.feedburner.com/ruanyifeng # 阮一峰
+      - https://1q43.blog/feed
+      - http://feeds.feedburner.com/ruanyifeng
+      - http://rsshub.app/sspai/matrix
 jobs:
   print:
     name: Make a HTTP Request
